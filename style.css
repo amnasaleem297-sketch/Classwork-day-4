@@ -1,0 +1,27 @@
+
+
+.box{
+border: 2px #561717 solid;
+background-color: #faebd7;
+color: rgb(93, 0, 255);
+padding: 20px;
+margin: 5px;
+}
+.container1{
+    display: flex;
+border: 3px #e63946 solid;
+width: 500px;
+justify-content: space-between;
+flex-direction: row;
+}
+.container2{
+display: flex;
+border: 3px #e63946 solid;
+margin:10px 0px;
+width: 100px;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items:center;
+align-content:space-between;
+
+}
